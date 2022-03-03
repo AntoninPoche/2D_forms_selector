@@ -1,1 +1,3 @@
 visualization/*
+*__pycache__*
+.idea*
